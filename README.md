@@ -1,1 +1,1 @@
-A spiral is created based on an odd number read in from the file. This spiral is tested by checking if the adjacent numbers added equals to the given outputs.
+This project implements a Python script that generates a spiral matrix based on an odd integer read from a file. The spiral is constructed in a 2D list, and the program verifies specific conditions by calculating the sums of adjacent numbers for any given integer within the spiral, returning these sums as output.
